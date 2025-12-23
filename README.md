@@ -6,7 +6,7 @@ adamayoung
 > cat interests.txt
 [REDACTED]
 > fortune
-"The code works. Don't ask why."
+"guard let sanity else { return }"
 ```
 
 #### Things I Enjoy
@@ -27,7 +27,7 @@ adamayoung
 #### Fun Facts
 
 - My code has more comments than my social life
-- I've mass-deleted `node_modules` more times than I'd like to admit
+- I've cleaned `DerivedData` more times than I'd like to admit
 - I believe tabs vs spaces is a false dichotomy — it's really about the friends we made along the way
 
 ---
@@ -35,7 +35,7 @@ adamayoung
 <details>
 <summary>🎲 Click for a random dev thought</summary>
 <br>
-"It worked on my machine" — the universal dev haiku.
+"It worked on Simulator" — the iOS dev's famous last words.
 </details>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=adamayoung&color=blueviolet&style=flat-square&label=Profile+Views)
